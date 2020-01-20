@@ -2,7 +2,7 @@ import React from 'react';
 import FeatureOptions from './FeatureOptions';
 import './App.css';
 
-export default class MainForm extends React.Component {
+export default class FeatureForms extends React.Component {
 
   render() {
 
